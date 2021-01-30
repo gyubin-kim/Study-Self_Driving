@@ -1,2 +1,3 @@
-안녕하세요.
-Self-Driving에 관한 코드를 업로드하는 Repository입니다.
+Hello
+Repository for uploading code about Self-Driving.
+I will upload various self-driving codes from the undergraduate perspective.
